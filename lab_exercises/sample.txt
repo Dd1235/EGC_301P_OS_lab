@@ -1,0 +1,9 @@
+Some sample txt for the experiments
+Loream ipsum dolor sit amet
+This repo contains the lab exercises for the course, will update with project and other code I write related to the OS
+Perceptron is not used anymore but it is an interesting concept to learn, one of the few things we can simply prove mathematically.
+make change ot hard link
+some change to sft link
+update soft link
+update soft link 4:30 15feb
+update soft link 4:32 
