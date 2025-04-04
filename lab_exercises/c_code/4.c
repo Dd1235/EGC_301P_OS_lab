@@ -9,7 +9,7 @@ int main()
     // O_EXCL makes sure that if the file already exists, open() will fail
     // so this now gives you error if file already exists, EEXIST because of O_EXCL
     // success when file is created
-    int fd = open("../file_4.txt", O_RDWR | O_CREAT | O_EXCL, 0744); // permissions matter when creating a new file
+    int fd = open("./file_4.txt", O_RDWR | O_CREAT | O_EXCL, 0744); // permissions matter when creating a new file
     if (fd == -1)
     {
         perror("Error");

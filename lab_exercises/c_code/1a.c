@@ -5,8 +5,8 @@
 
 int main()
 {
-    const char *source_file_rel = "./sample.txt";     // relative to destination
-    const char *dest_file_rel = "../sample_copy.txt"; // relative to where executable is
+    const char *source_file_rel = "./sample.txt";    // relative to destination
+    const char *dest_file_rel = "./sample_copy.txt"; // relative to where executable is
 
     // char source_file[PATH_MAX];
     // char dest_file[PATH_MAX];
