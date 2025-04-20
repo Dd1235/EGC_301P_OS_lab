@@ -5,13 +5,15 @@
 
 #define BUFFER_SIZE 1024
 
+// read only file reading
+
 void read_file(const char *filename)
 {
     int fd;
     char buffer[BUFFER_SIZE];
     ssize_t bytes_read;
     int i = 0;
-
+    // open in read only mode
     fd = open(filename, O_RDONLY);
     if (fd == -1)
     {
