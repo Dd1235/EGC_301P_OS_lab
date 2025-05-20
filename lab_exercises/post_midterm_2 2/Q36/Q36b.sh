@@ -1,0 +1,1 @@
+mkfifo -m 0744 myfifo2

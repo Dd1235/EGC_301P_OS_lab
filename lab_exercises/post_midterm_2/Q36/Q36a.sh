@@ -1,0 +1,1 @@
+mknod fifoa1 p
