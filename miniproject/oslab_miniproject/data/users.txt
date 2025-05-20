@@ -1,0 +1,7 @@
+admin|admin|adminpass|1
+alice|student|updatedpassword123|1
+bob|faculty|bob456|1
+john|student|johnpwd|1
+newstudent1|student|stud123|1
+newstudent2|student|student@123|0
+newfaculty1|faculty|faculty@123|1

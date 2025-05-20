@@ -1,0 +1,5 @@
+CS101|Operating Systems|bob|2|alice,john
+CS102|Databases|bob|3|newstudent1
+CS103|AI|bob|1|alice
+CS220|Computer Organization|bob|4|alice
+CS102|newcourse|newfaculty1|3|
